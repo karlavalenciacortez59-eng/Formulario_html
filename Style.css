@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    padding: 0;
+    background-color: rgba(182, 53, 10, 0.629) ;
+}  
+#Card_body{
+    background-color: rgba(141, 90, 35, 0.019);
+    border: solid 6px rgba(44, 10, 76, 0.918);
+    width: 450px;
+    height: 450px;
+    margin: auto;
+}
+#Card_body p{
+    font-size: 20px;
+    text-align: center;
+}
+    
+.FORMULARIO{
+    background-color: rgba(17, 9, 120, 0.247);
+    border: solid 8px rgb(1, 14, 10);
+    width: 30px;
+    height: 50px;
+    margin: auto;
+} 
+
+#Card_body p{
+    font-size: 10px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.5;
+    margin: 10px auto;
+    padding: 9px; 
+
+    
+
+}
